@@ -69,9 +69,3 @@ options:
 * Paris, S., Hasinoff, S.W., Kautz, J.
   [Local Laplacian Filters](https://people.csail.mit.edu/sparis/publi/2011/siggraph/#:~:text=ToG%20paper%20(more%20formal)%20(pdf%2C%2053MB)), SIGGRAPH 2011
 * [Communications of the ACM, Vol. 58, No. 3](https://cacm.acm.org/research/local-laplacian-filters/)
-
----
-
-## License
-
-MIT License. See [LICENSE](./LICENSE) for details.
