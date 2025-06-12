@@ -1,0 +1,6 @@
+__pycache__/
+debug_levels/
+.DS_Store
+*.png
+*.hdr
+*.exr
